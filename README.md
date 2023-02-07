@@ -19,11 +19,11 @@ Recent Somfy remotes has test points on the back of the PCB labeled with "Up", "
 
 ## Usage 
 
-Either by direct control with Up/Down/My buttons or using CRON tasks
-To use CRONs add a item to the task list, write a CRON syntax on the left field and the commands to be executed when the CRON fire.
-commands are a string of commands ``up`` ``down`` ``my`` or a delay in milliseconds separated with ``;``
-Load, Save and Delete buttons will execute these actions on the task list saved in **nodejs-service/tasks.json**
-Stop, Start and Restart buttons will execute these actions the CRON process that are listed as tasks
+Either by direct control with Up/Down/My buttons or using CRON tasks.  
+To use CRONs add a item to the task list, write a CRON syntax on the left field and the commands to be executed when the CRON fire.  
+Commands are a string of commands ``up`` ``down`` ``my`` or a delay in milliseconds separated with ``;``  
+Load, Save and Delete buttons will execute these actions on the task list saved in **nodejs-service/tasks.json**  
+Stop, Start and Restart buttons will execute these actions the CRON process that are listed as tasks  
 
 ![image](https://user-images.githubusercontent.com/31934363/217328127-beb78e47-c4bd-4421-88df-f1f8fabba9dc.png)
 
