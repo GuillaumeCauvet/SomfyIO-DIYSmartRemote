@@ -1,0 +1,14 @@
+{
+  "name": "somfy-io-diy-smart-remote-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cron": "^2.2.0",
+    "express": "^4.18.2",
+    "onoff": "^6.0.3"
+  }
+}

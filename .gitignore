@@ -1,0 +1,4 @@
+/nodejs-service/node_modules
+/vuejs-web-gui/dist
+/vuejs-web-gui/node_modules
+/nodejs-service/public/*
